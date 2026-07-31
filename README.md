@@ -14,6 +14,7 @@ I'm a web developer transitioning into offensive security. These writeups docume
 | 4   | No Sanity 1      | Web Exploitation | Unrestricted File Upload                | [Writeup](picoctf/no-sanity-1.md)                  |
 | 5   | Head Dump        | Web Exploitation | Prevent Memory Dump                     | [Writeup](picoctf/head-dump.md)                    |
 | 6   | Cookie Monster   | Web Exploitation | Cookie Based                            | [Writeup](picoctf/cookie-monster-secret-recipe.md) |
+| 7   | Web Decode       | Web Exploitation | Client Side Exposure                    | [Writeup](picoctf/webdecode.md)                    |
 
 ## Methodology
 
