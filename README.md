@@ -15,6 +15,7 @@ I'm a web developer transitioning into offensive security. These writeups docume
 | 5   | Head Dump        | Web Exploitation | Prevent Memory Dump                     | [Writeup](picoctf/head-dump.md)                    |
 | 6   | Cookie Monster   | Web Exploitation | Cookie Based                            | [Writeup](picoctf/cookie-monster-secret-recipe.md) |
 | 7   | Web Decode       | Web Exploitation | Client Side Exposure                    | [Writeup](picoctf/webdecode.md)                    |
+| 8   | Unminify         | Web Exploitation | Information Disclosure                  | [Writeup](picoctf/unminify.md)                     |
 
 ## Methodology
 
