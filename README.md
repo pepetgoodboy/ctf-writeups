@@ -16,6 +16,7 @@ I'm a web developer transitioning into offensive security. These writeups docume
 | 6   | Cookie Monster   | Web Exploitation | Cookie Based                            | [Writeup](picoctf/cookie-monster-secret-recipe.md) |
 | 7   | Web Decode       | Web Exploitation | Client Side Exposure                    | [Writeup](picoctf/webdecode.md)                    |
 | 8   | Unminify         | Web Exploitation | Information Disclosure                  | [Writeup](picoctf/unminify.md)                     |
+| 9   | IntroToBurp      | Web Exploitation | Improper Input Validation               | [Writeup](picoctf/introtoburp.md)                  |
 
 ## Methodology
 
