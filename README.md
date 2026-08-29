@@ -18,6 +18,7 @@ I'm a web developer transitioning into offensive security. These writeups docume
 | 8   | Unminify         | Web Exploitation | Information Disclosure                  | [Writeup](picoctf/unminify.md)                     |
 | 9   | IntroToBurp      | Web Exploitation | Improper Input Validation               | [Writeup](picoctf/introtoburp.md)                  |
 | 10  | Bookmarklet      | Web Exploitation | Client-Side Exposure                    | [Writeup](picoctf/bookmarklet.md)                  |
+| 11  | Local Authority  | Web Exploitation | Client-Side Exposure                    | [Writeup](picoctf/local-authority.md)              |
 
 ## Methodology
 
