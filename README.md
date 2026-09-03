@@ -21,6 +21,7 @@ I'm a web developer transitioning into offensive security. These writeups docume
 | 11  | Local Authority  | Web Exploitation | Client-Side Exposure                    | [Writeup](picoctf/local-authority.md)              |
 | 12  | Inspect HTML     | Web Exploitation | Information Disclosure                  | [Writeup](picoctf/inspect-html.md)                 |
 | 13  | Includes         | Web Exploitation | Information Disclosure                  | [Writeup](picoctf/includes.md)                     |
+| 14  | Cookies          | Web Exploitation | Insecure Direct Object Reference (IDOR) | [Writeup](picoctf/cookies.md)                      |
 
 ## Methodology
 
