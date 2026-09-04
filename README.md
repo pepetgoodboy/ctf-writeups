@@ -22,6 +22,7 @@ I'm a web developer transitioning into offensive security. These writeups docume
 | 12  | Inspect HTML     | Web Exploitation | Information Disclosure                  | [Writeup](picoctf/inspect-html.md)                 |
 | 13  | Includes         | Web Exploitation | Information Disclosure                  | [Writeup](picoctf/includes.md)                     |
 | 14  | Cookies          | Web Exploitation | Insecure Direct Object Reference (IDOR) | [Writeup](picoctf/cookies.md)                      |
+| 15  | Scavenger Hunt   | Web Exploitation | Information Disclosure                  | [Writeup](picoctf/scavenger-hunt.md)               |
 
 ## Methodology
 
